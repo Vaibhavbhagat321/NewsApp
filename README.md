@@ -1,6 +1,6 @@
 # Screenshot
 
-![Screenshot](https://github.com/Vaibhavbhagat321/NewsApp/blob/main/image.jpg?raw=true)
+![Screenshot](https://github.com/Vaibhavbhagat321/NewsApp/blob/main/ss.png?raw=true)
 
 # Getting Started with Create React App
 
