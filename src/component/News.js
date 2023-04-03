@@ -62,8 +62,8 @@ export class News extends Component {
 
   render() {
     return (
-      <div className="container my-3">
-        <h2 className="text-center">
+      <div className="container my-3"style={{"paddingTop": "40px"}}>
+        <h2 className="text-center my-3">
           Top News -{" "}
           {this.props.category.charAt(0).toUpperCase() +
             this.props.category.slice(1)}{" "}
